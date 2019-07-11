@@ -16,4 +16,4 @@ Pegue os meteoros espalhados pelo mapa.
 Evite colisão com os sacos de lixo que seguem a nave.
 Não encoste na borda do mapa.
 
-Para baixar o jogo clique [AQUI] (https://www.dropbox.com/s/2mndr3s7b5fwe9t/snake.sb2?dl=0)
+Para baixar o jogo clique [AQUI](https://www.dropbox.com/s/2mndr3s7b5fwe9t/snake.sb2?dl=0)
